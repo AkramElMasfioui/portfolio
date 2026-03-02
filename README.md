@@ -1,103 +1,98 @@
 <p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
+    <img height="100" src="./public/profile.jpg">
 </p>
 
-<h1 align="center">Developer Portfolio</h1>
+<h1 align="center">Portfolio - Akram El Masfioui</h1>
 
 <p align="center">
-  <strong>A modern, responsive, and customizable portfolio template for developers and freelancers</strong>
+  <strong>Développeur Full Stack | Étudiant Ingénieur en Informatique et Réseaux - EMSI</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-16.0.1-black?style=for-the-badge&logo=next.js" alt="Next.js 16.0.1">
   <img src="https://img.shields.io/badge/React-19.2.0-blue?style=for-the-badge&logo=react" alt="React 19.2.0">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4.x-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS 4">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
 </p>
 
 <p align="center">
-  <a href="#demo-movie_camera">Demo</a> •
-  <a href="#features-sparkles">Features</a> •
-  <a href="#installation-arrow_down">Installation</a> •
-  <a href="#usage-joystick">Usage</a> •
-  <a href="#deployment-rocket">Deployment</a> •
-  <a href="#tutorials-wrench">Tutorials</a>
+  <a href="https://github.com/AkramElMasfioui">GitHub</a> •
+  <a href="https://www.linkedin.com/in/akram-el-masfioui-a29bs3/">LinkedIn</a> •
+  <a href="mailto:elmasfiouiakram@gmail.com">Contact</a>
 </p>
 
 ---
 
-## Overview
+## 👨‍💻 À propos de moi
 
-A professional portfolio template built with **Next.js 16**, **React 19**, and **Tailwind CSS 4**. Features a modern App Router architecture, server components, and data-driven configuration for easy customization.
+Je suis **Akram El Masfioui**, étudiant ingénieur en Informatique et Réseaux à l'EMSI Rabat. Passionné par le développement web et les nouvelles technologies, je suis rigoureux et orienté résultats.
+
+### 🛠️ Compétences Techniques
+
+- **Langages**: Java, PHP, C++, JavaScript, Python
+- **Frameworks**: Spring Boot, React, Laravel, .NET
+- **Bases de données**: MySQL, PostgreSQL, MongoDB
+- **Outils**: Git/GitHub, Docker, Microsoft Azure
+
+### 🎓 Formation
+
+- **Diplôme d'Ingénieur en Informatique et Réseaux** - EMSI, Rabat (2023-2026)
+- **Technicien Spécialisé en Développement Full Stack** - ISTA, Kenitra (2021-2023)
+
+### 💼 Expériences
+
+- **Développeur Full Stack** - Société de Construction Albinae (Juil. - Sept. 2025)
+- **Développeur Web** - Société de Location Alhouda (Avr. - Juin 2024)
+
+### 📜 Certifications
+
+- Java Microservices with Spring Boot and Spring Cloud (Google Cloud)
+- React (Meta)
+- Introduction to Python (Michigan Univ.)
+- GitHub Foundations (datacamp)
 
 ---
 
-## Demo :movie_camera:
+## 📧 Contact
+
+- **Email**: elmasfiouiakram@gmail.com
+- **Téléphone**: +212 6 34 67 67 19
+- **Localisation**: Kenitra, Maroc
+
+---
+
+## 🚀 Installation locale
+
+```bash
+# Cloner le repo
+git clone https://github.com/AkramElMasfioui/portfolio.git
+
+# Installer les dépendances
+cd portfolio
+npm install
+
+# Lancer en développement
+npm run dev
+```
+
+Le site sera accessible sur http://localhost:3000
+
+---
+
+## 📝 Technologies utilisées
+
+| Technologie      | Utilisation           |
+| ---------------- | --------------------- |
+| **Next.js 16**   | Framework React       |
+| **React 19**     | Interface utilisateur |
+| **Tailwind CSS** | Styles                |
+| **Lottie**       | Animations            |
+
+---
 
 <p align="center">
-  <img src="./public/image/screen.png" alt="Portfolio Screenshot" width="100%">
+  <strong>© 2026 Akram El Masfioui - Tous droits réservés</strong>
 </p>
-
-<p align="center">
-  <a href="https://abusaid.netlify.app/" target="_blank">
-    <strong>🚀 View Live Demo</strong>
-  </a>
-</p>
-
----
-
-## Features :sparkles:
-
-- ✅ **Cutting-Edge Tech Stack**: Built with Next.js 16, React 19, and Tailwind CSS 4
-- ✅ **Fully Responsive**: Optimized for all devices and screen sizes
-- ✅ **SEO Optimized**: Better visibility on search engines with Next.js metadata API
-- ✅ **Blazing Fast Performance**: Leverages Next.js 16 server components and streaming
-- ✅ **App Router**: Uses the modern Next.js App Router architecture
-- ✅ **Easy Customization**: Simple data-driven configuration
-- ✅ **Contact Form**: Integrated email and Telegram notifications
-- ✅ **Blog Integration**: Automatically fetch posts from dev.to
-- ✅ **Dark Theme**: Beautiful gradient design with Lottie animations
-- ✅ **Docker Support**: Easy containerized deployment
-- ✅ **Google Analytics**: Track visitor insights with GTM support
-
----
-
-## Next.js 16 Features Used :rocket:
-
-This portfolio leverages the latest Next.js 16 and React 19 capabilities:
-
-| Feature                  | Benefit                                                      |
-| ------------------------ | ------------------------------------------------------------ |
-| **App Router**           | Modern routing with layouts and nested routes                |
-| **Server Components**    | Improved performance with zero JavaScript for static content |
-| **Server Actions**       | Simplified form handling in contact page                     |
-| **Metadata API**         | Enhanced SEO with type-safe metadata                         |
-| **Image Optimization**   | Automatic image optimization with `next/image`               |
-| **Font Optimization**    | Automatic font loading with `next/font`                      |
-| **Streaming & Suspense** | Better loading states and progressive rendering              |
-| **React 19 Features**    | Actions, use hook, and improved hydration                    |
-
----
-
-## Sections :bookmark:
-
-| Section           | Description                                         |
-| ----------------- | --------------------------------------------------- |
-| 🦸 **Hero**       | Eye-catching introduction with animated elements    |
-| 👤 **About Me**   | Personal information and professional summary       |
-| 💼 **Experience** | Work history and professional accomplishments       |
-| 🛠️ **Skills**     | Technical skills with animated marquee display      |
-| 🚀 **Projects**   | Showcase your best work with descriptions and links |
-| 🎓 **Education**  | Academic background and certifications              |
-| 📝 **Blog**       | Latest articles from dev.to (auto-fetched)          |
-| 📧 **Contact**    | Get in touch form with email/Telegram integration   |
-
----
-
-## Table of Contents :scroll:
-
-- [Overview](#overview)
-- [Demo](#demo-movie_camera)
 - [Features](#features-sparkles)
 - [Sections](#sections-bookmark)
 - [Tech Stack](#tech-stack-computer)
