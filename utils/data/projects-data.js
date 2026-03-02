@@ -12,7 +12,7 @@ export const projectsData = [
         id: 2,
         name: 'Plateforme de Location Alhouda',
         description: "Conception et développement de modules métiers pour une plateforme de gestion de location de matériel de construction. Back-end avec Laravel et PHP. Fonctionnalités CRUD, base de données MySQL et optimisation des requêtes SQL. Interfaces dynamiques avec Blade, HTML, CSS et JavaScript. Contribution à la digitalisation du processus de gestion des locations.",
-        tools: ['Laravel', 'PHP', 'MySQL', 'Blade', 'HTML', 'CSS', 'JavaScript'],
+        tools: ['Laravel', 'PHP', 'MySQL', 'Blade', 'HTML', 'CSS', 'React'],
         role: 'Développeur Full Stack',
         code: '',
         demo: '',
